@@ -1,0 +1,2 @@
+include ':app', ':lib14'
+rootProject.name='My Application'
